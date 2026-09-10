@@ -23,5 +23,5 @@
 
 | 次數 | 日期 | 講者 | 題目 | 報告連結 |
 |---|---|---|---|---|
-| 報告一 | | | | [點我查看](reports/report1.md) |
-| 報告二 | | | | [點我查看](reports/report2.md) |
+| 報告一 | | | | [點擊查看](reports/report1.md) |
+| 報告二 | | | | [點擊查看](reports/report2.md) |
