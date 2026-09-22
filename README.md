@@ -10,8 +10,8 @@
 
 | 次數 | 日期 | 講者 | 題目 | 筆記連結 |
 |---|---|---|---|---|
-| 第 1 次 | 2026/09/15 | 王大進 | System-level Diagnosis – An Introduction and Recent Results | [點擊查看](上課筆記/0915.md) |
-| 第 2 次 | 2026/09/22 | 彭徐鈞 | From Data-Driven Insights to Clinical Translation: Advances in AI for Diagnostic and Prognostic Medical Imaging | [點擊查看](上課筆記/0922.md) |
+| 第 1 次 | 2026/09/15 | 王大進教授 | System-level Diagnosis – An Introduction and Recent Results | [點擊查看](上課筆記/0915.md) |
+| 第 2 次 | 2026/09/22 | 彭徐鈞教授 | From Data-Driven Insights to Clinical Translation: Advances in AI for Diagnostic and Prognostic Medical Imaging | [點擊查看](上課筆記/0922.md) |
 | 第 3 次 | | | | [點擊查看](上課筆記/0929.md) |
 | 第 4 次 | | | | [點擊查看](上課筆記/1006.md) |
 
