@@ -10,10 +10,10 @@
 
 | 次數 | 日期 | 講者 | 題目 | 筆記連結 |
 |---|---|---|---|---|
-| 第 1 次 | 2026/09/15 | 王大進教授 | System-level Diagnosis – An Introduction and Recent Results | [點擊查看](上課筆記/0915.md) |
-| 第 2 次 | 2026/09/22 | 彭徐鈞教授 | From Data-Driven Insights to Clinical Translation: Advances in AI for Diagnostic and Prognostic Medical Imaging | [點擊查看](上課筆記/0922.md) |
-| 第 3 次 | 2026/09/29 | 蕭育仁教授 | 微型氣體感測器產品設計開發 | [點擊查看](上課筆記/0929.md) |
-| 第 4 次 | 2026/10/06 | 楊勝州教授 | 奈米光動能元件 | [點擊查看](上課筆記/1006.md) |
+| 第&nbsp;1&nbsp;次 | 2026/09/15 | 王大進教授 | System-level Diagnosis – An Introduction and Recent Results | [點擊查看](上課筆記/0915.md) |
+| 第&nbsp;2&nbsp;次 | 2026/09/22 | 彭徐鈞教授 | From Data-Driven Insights to Clinical Translation: Advances in AI for Diagnostic and Prognostic Medical Imaging | [點擊查看](上課筆記/0922.md) |
+| 第&nbsp;3&nbsp;次 | 2026/09/29 | 蕭育仁教授 | 微型氣體感測器產品設計開發 | [點擊查看](上課筆記/0929.md) |
+| 第&nbsp;4&nbsp;次 | 2026/10/06 | 楊勝州教授 | 奈米光動能元件 | [點擊查看](上課筆記/1006.md) |
 
 ---
 
